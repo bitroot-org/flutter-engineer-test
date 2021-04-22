@@ -20,7 +20,7 @@
 **Tasks:**
 
 - Calculate footsteps through the phone's hardware sensors and show following footsteps metrics and show it in the UI.
-- Integrate REST APIs in the app using Retrofit, with these API set to reflect in the UI.
+- Integrate REST APIs [API](https://api.jsonbin.io/b/60816ce39a9aa933335504a8) in the app using Retrofit, with these API set to reflect in the UI.
 
 **Frameworks to be used**
 - MVP / MVVM
@@ -30,6 +30,10 @@
 - Using Room DB
 - Using Android Jetpack tools
 - Simplified 3rd Party integrations enhancing the app's functionalities and keeping the app size to minimal.
+
+## Resources for the task
+---
+1. [APIs](https://api.jsonbin.io/b/60816ce39a9aa933335504a8)
 
 ## APP UI
 ![posts](https://raw.githubusercontent.com/bitroot-org/android-internship/main/android-task.png)
