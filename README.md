@@ -30,3 +30,6 @@
 - Using Room DB
 - Using Android Jetpack tools
 - Simplified 3rd Party integrations enhancing the app's functionalities and keeping the app size to minimal.
+
+## APP UI
+![posts](https://www.thebalancecareers.com/thmb/km0jcIOEWeRWDVaOVbS2YkwSXPA=/950x0/filters:max_bytes(150000):strip_icc()/backenddeveloper-2502825a14ff440eb775dc4244e7ed4d.png)
