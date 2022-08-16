@@ -1,39 +1,48 @@
 ![posts](https://avatars.githubusercontent.com/u/63720760?s=100&v=4)
-## 2021 Android Engineer Test by Bitroot Org.
+## 2022 Flutter Engineer Test by Bitroot Org.
 
-![Bitroot Android internship](https://img.shields.io/badge/Android-Internship-blue?style=flat-square&link=https://bitroot.org)
-![Use Android](https://img.shields.io/badge/Android-181717?style=flat-square&logo=android)
-![Use Android Studio](https://img.shields.io/badge/Android-Studio-green?style=flat-square&logo=android-studio)
+![Use Flutter](https://img.shields.io/badge/Internship-Flutter-blue)
+![Use Flutter](https://img.shields.io/badge/Android-Studio-green?style=flat-square&logo=flutter)
 ![Use GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ### What we expect:
-- Proficient knowledge of the Android programming language and the framework that is used by the company. (**Java and Kotlin**)
+- Proficient knowledge of the Dart programming language and the Flutter framework that is used by the company.
 - Understanding of Backend Rest APIs (to communicate with team members) 
-- Ability to manage a android design, including database handling as well as scaling applications to handle load changes
+- Ability to manage a Material design, including database handling as well as scaling applications to handle load changes
 - Knowledge of accessibility and security compliance 
 - Experience with version control, such as Git
+- Native app experience will be add-on (Optional)
 
 ---
 
-## Create a small step calculator app using server based data and also local hardware data.
+## Create a small Payment Management app using Localdb based data.
 
 **Tasks:**
 
-- Calculate footsteps through the phone's hardware sensors and show following footsteps metrics and show it in the UI.
-- Integrate REST APIs [API](https://api.jsonbin.io/b/60816ce39a9aa933335504a8) in the app using Retrofit, with these API set to reflect in the UI.
+- Create UI based on the given Screenshots.
+- Make model as per design UI & bind with UI.
+- Following points need to consider while making the desings.
+
+1. Use Slivers as much Possible
+2. Make User Experience smooth
+3. Page navigation should be Shimmer based
+4. Seach should be in full screen
+5. Listview should be animated based on user gestures
+
 
 **Frameworks to be used**
-- MVP / MVVM
+- MVP / MVVM / others
 - Repository Architecture (Optional)
+- Bloc Pattern / Provider / GetX. (any works)
 
 **Additional Points for**
-- Using Room DB
-- Using Android Jetpack tools
+- Using local db
 - Simplified 3rd Party integrations enhancing the app's functionalities and keeping the app size to minimal.
 
 ## Resources for the task
 ---
-1. [APIs](https://api.jsonbin.io/b/60816ce39a9aa933335504a8)
 
 ## APP UI
-![posts](https://raw.githubusercontent.com/bitroot-org/android-internship/main/android-task.png)
+![ae3169468a746002b678bb4ce27dcbc7](https://user-images.githubusercontent.com/9571732/184913399-858128bd-3f58-41b8-abb3-0afa5f9d1afc.png)
+
+
