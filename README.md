@@ -26,7 +26,7 @@
 1. Use Slivers as much Possible
 2. Make User Experience smooth
 3. Page navigation should be Shimmer based
-4. Seach should be in full screen
+4. Search should be in full screen
 5. Listview should be animated based on user gestures
 
 
