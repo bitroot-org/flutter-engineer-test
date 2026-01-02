@@ -51,7 +51,7 @@ Implement **Login** and **Register** functionality using the APIs provided below
 
 ### Register API
 ```http
-POST https://api.rapaap.com/api/v1/mobile/registerUser
+POST https://api.rapsap.com/api/v1/mobile/registerUser
 Content-Type: application/json
 
 {
